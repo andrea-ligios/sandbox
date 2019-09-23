@@ -1,0 +1,13 @@
+{
+  "user": {
+     "id"       : 1,
+     "loggedIn" : true
+     "name"     : "Foo",
+     "abi"      : "04321", 
+     "filiale"  : "8765",
+     "utente"   : "U0009"
+  },
+  "profile": {
+    "name": "typicode"
+  }
+}
