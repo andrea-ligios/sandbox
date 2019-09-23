@@ -1,7 +1,7 @@
 {
   "user": {
      "id"       : 1,
-     "loggedIn" : true
+     "loggedIn" : true,
      "name"     : "Foo",
      "abi"      : "04321", 
      "filiale"  : "8765",
